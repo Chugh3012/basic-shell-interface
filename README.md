@@ -51,6 +51,6 @@ The  shell interface  provides the  user  a  prompt  after  which  he  types  in
 ### Steps to execute
 ##### Shell requires:
 	sudo apt-get install libreadline6 libreadline6-dev
-    	sudo apt-get install coreutils
+	sudo apt-get install coreutils
 ##### Compiling
 	gcc shell.c -lreadline 
