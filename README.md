@@ -33,7 +33,7 @@ The  shell interface  provides the  user  a  prompt  after  which  he  types  in
 	Helps user exit the shell
 
 #### rmexcept <list_of_files>
-	input for file names is space separated
+	Input for file names is space separated
 	it take cares(built in) that current C file, its a.out and makefile is not deleted
 
 #### <program_name> m
